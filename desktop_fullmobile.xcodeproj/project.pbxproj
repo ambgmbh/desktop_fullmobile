@@ -86,6 +86,10 @@
 		84680F802214A3430027A06E /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				KnownAssetTags = (
+					New,
+					"New-1",
+				);
 				LastSwiftUpdateCheck = 1010;
 				LastUpgradeCheck = 1010;
 				ORGANIZATIONNAME = "AMB Kennzeichenzentrale GMBH";
